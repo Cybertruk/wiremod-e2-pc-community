@@ -6,13 +6,19 @@ I do not own the original ALX PC, this is for posting community dupes and E2/pro
 -------------------------------------------------------------------------------------------------------
 
 Requirements:
+
 Advanced Duplicator 2 (advdupe1 causes issues, don't use it)
+
 Wiremod (the base for this whole github and the github above)
+
 AlexALX's E2 PC (https://github.com/AlexALX/wiremod_e2_os/wiki/Installation)
 
 Recommendations:
+
 Some tunes (for vibing while you build)
+
 All e2 extensions enabled
+
 A local or singleplayer server for unlimited building
 
 Information:
